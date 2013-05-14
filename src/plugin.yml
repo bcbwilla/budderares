@@ -1,0 +1,5 @@
+main: me.bcbwilla.plugins.budderares.BudderAres
+name: BudderAres
+version: 1.0
+author: bcbwilla
+description: Encourages use of budder swords with custom death message and fireworks.
